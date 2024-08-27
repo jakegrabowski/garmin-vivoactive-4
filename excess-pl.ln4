@@ -1,0 +1,308 @@
+793d45ea AM
+dff522b5 Poziom API
+336b3c68 Alarmy dla nietypowego tętna
+be50c82f Wykryto nietypowo wysokie tętno
+f3e08deb Wykryto nietypowo niskie tętno
+39da42ea Akcja
+f41de8c0 Pamięć aktywności pełna. Usuń aktywności, aby zwolnić miejsce.
+46816fdc Dodaj sieć WIFI, aby używać %1.
+392d9a38 Dodaj aktywności.
+6e88aece Dodaj nowe
+43c57311 Dodaj dostawcę
+82dfe904 Dodaj widżety do listy.
+940e7823 Zaawansowane opcje
+e41d31e2 Alarm\nodrzucony
+c805abbc Alarm na 10 minut\nw trybie drzemki
+8f9e7cc5 Alarm nie został wysłany
+521f47e3 Zezwolić na nagrywanie?
+0fc78ad4 a
+133297ef %1 przed południem
+681c234f %1 am
+6b801662 %1 przed południem
+bde7e1a8 %1 przed południem
+a931a793 %1 am
+ae86b642 Aplikacja zostanie usunięta z urządzenia.
+d7962588 Wysłano alarm pomocy
+4c5fb631 Wysłano prośbę o pomoc o %1.
+2ba8ab5b Poproszono o pomoc
+ebbef246 Auto-regeneracja
+558aa0b5 Automatyczne zapisywanie
+c997f87f Średnie tętno
+e9a4c28b Średnia częstotliwość oddechu
+d07c2fc0 Średnia prędkość
+6d35f05a Wyciskanie na ławce
+574d6d86 Nie można rozpocząć, ponieważ inna aktywność jest w toku.
+d04fc71f Wyślij tętno
+78d9a3aa Dodaj sieć
+6a13bf34 Dodaj sieci WIFI za pomocą aplikacji Garmin Connect
+d9bf576a Jakość powietrza: %1
+8419730d Zawsze
+fb926734 %1 a
+7d6608f2 %1 am
+6c357b19 Automatyczne przesyłanie
+4e824b80 Niski poziom baterii. Podłącz teraz do ładowarki, aby kontynuować synchronizację.
+514b101b Zbyt niski poziom baterii, aby połączyć się przez WIFI.
+d45ef9c5 Zbyt niski poziom baterii. Podłącz do ładowarki, aby rozpocząć synchronizację.
+1d59c72f Zbyt niski poziom baterii, aby zmierzyć wartości pulsoksymetru.
+56cdc38f Częstotliwość oddechu %1
+8ffeaf85 Teraz
+e734c51c Jutro, %1
+58a50c2f Anuluj
+4c169db8 Anulować synchronizację?
+8028d3f4 Brak połączenia z serwerem. Spróbuj ponownie później.
+e6deeb2e Nie można połączyć się z siecią WIFI. Kod błędu %1.
+0ae49f38 Brak połączenia z siecią WIFI. Wymagane logowanie w przeglądarce.
+aa67fa78 Nie znaleziono adresu DHCP. Sprawdź ustawienia routera.
+7be79977 Przesyłanie niemożliwe podczas aktywności.
+6da35b95 Wyszukiwanie aktualizacji
+6b861e01 %1 % ukończone.
+ede9763e Połącz z siecią WIFI
+9d54bd01 Łączenie z %1
+667f3bb4 Błąd połączenia
+a263207b Połączono pomyślnie
+ed0b4088 1 dzień temu
+aaa3e6df %1 dni temu
+91ea3a2d Punkt rosy
+8c80f834 Odrzuć
+21d3a832 Gotowe
+66db551f Błąd pobierania. Spróbuj ponownie później, aby pobrać aktualizacje.
+abf7bd66 Błąd pobierania. Niewystarczająca ilość miejsca na urządzeniu.
+ccefce71 Pobieranie wolne. Zbliż się do routera Wi-Fi, aby poprawić wydajność.
+32a0bb83 Pobieranie zakończone pomyślnie.
+02f4ab25 Pobieranie aktualizacji
+c2f52c69 Edytuj
+1dc1719d Błąd: Usuń kartę (ostatnie cyfry: %1) i spróbuj ponownie.
+1faf3b1b %1 wydarzeń
+c44480a5 Odczuwalna temperatura: %1
+671a5457 F
+e005083d GPS nie znaleziono
+b50916cf Sygnał GPS jest silniejszy na otwartej przestrzeni, z dala od drzew i wysokich budynków.
+d6f94713 Pomoc
+0d0e2bdb Pomoc
+b9e354fc 1 godzinę temu
+2344a0d3 %1 godzin temu
+eef0e1d5 Wilgotność powietrza
+7a772d4d Niekompatybilny typ sieci.
+c24294cd Nieprawidłowe hasło.
+8b7996d8 Niewystarczająca ilość miejsca na urządzeniu.
+48c9192e Wewnętrzny błąd WiFi.
+54cf5e42 Nieprawidłowa długość hasła.
+57aa002e Tylko raz
+a623aae1 Ostatnie %1 godzin
+46edd833 Rozpocząć %1?
+bca0409b Rozpocząć punkt trasy?
+220354cb Rozpocząć trening?
+1c108221 %1 minut temu
+6f3b0d0f M
+277e435f Synchronizacja muzyki zakończona
+d0120c2d Synchronizacja muzyki nie powiodła się
+d8d7bb3c Moje sieci
+4ae07454 Znalezione sieci
+4ba548d2 Brak połączenia z internetem.
+f9c7af42 Nie znaleziono znanych sieci WIFI.
+85c89682 Brak dostępnych aktualizacji.
+bbd4c4ca Nie znaleziono sieci WIFI.
+678bb2bd Powiadom.
+40b1f158 Teraz
+7a1fec05 Więcej informacji w aplikacji Garmin Connect.
+95ff898d %1 p
+491b6131 %1 pm
+689ef2b0 Słaby sygnał tętna. Sprawdź ułożenie zegarka i spróbuj ponownie.
+5cbfd78f Dostawca %1/%2
+9aa0e1de Zachowaj spokój
+48bf56a5 Pomiar pulsoksymetru
+bed24878 Odzyskiwanie po treningu. Spróbuj ponownie później.
+af0dfdce Usunąć z moich sieci?
+62d76ebf S
+78293cae Wyszukiwanie sieci WIFI
+bd236b5a Skonfiguruj WIFI za pomocą aplikacji Garmin Connect Mobile.
+c0676b23 Od północy
+dc8d5fac Pomiń
+e407e3b1 Pomiń
+55f61f69 Części aktualizacji nie udało się pobrać.
+d383591a Słaby dzień
+f72f7ba0 Więcej niż 42
+f315d711 %1 tyg. %2 dni.
+32b8ee73 S
+1e7f4d07 Synchronizacja przerwana z powodu niskiego poziomu baterii. Podłącz do ładowarki, aby rozpocząć ponownie.
+75627fcf Synchronizacja: %1
+2939310b D
+ef3c6d62 Czas ustawiony
+6df17a90 Czas zostanie automatycznie zaktualizowany po znalezieniu sygnału GPS.
+5abcb886 Zbyt dużo ruchu. Pozostań nieruchomo i spróbuj ponownie.
+20135944 Przesyłanie już trwa.
+c0db967b Przesyłanie zakończone.
+30f4726b Przesyłanie zakończone\n(%1 plików nieudanych).
+147f6681 Przesyłanie zakończone\n(1 plik nieudany).
+bac1f3a9 Przesyłanie nie powiodło się.
+5659ca57 Trwa przesyłanie
+60948802 Spróbuj ponownie
+8e5a2d53 Spróbować ponownie?
+fbc9256c D
+312cad90 UV-Index: %1
+93e805d9 Nie można połączyć się z siecią WIFI.
+7d4dc3af Certyfikaty nie zostały pobrane.
+fb856a5e Pomiar niemożliwy. Usiądź wygodnie, załóż zegarek ciasno powyżej nadgarstka i pozostań nieruchomo.
+f7b6a68a Nieznany status. Spróbuj ponownie później.
+f3d17f60 Lista sieci WIFI jest aktualizowana.
+bd3657aa Oczekiwanie na GPS
+58cb97c1 %1 %2 - Obraz mapy niedostępny
+4c4413e7 M
+4441235f Wyszukiwanie WIFI nie powiodło się.
+82a2d5cd WIFI
+a416818a Znaleziono sieci WIFI.
+1c45262f Usuń
+e08eb45b %1 treningów
+10ec5340 %1 godz.
+4a4deb41 %1 godz.
+7c04b821 %1 min
+b08f111c %1 min.
+fbbbb033 Kadencja zbyt wysoka
+9056e78f Kadencja zbyt niska
+3333115f Częstotliwość pedałowania zbyt wysoka
+6616ff43 Częstotliwość pedałowania zbyt niska
+9f1a096e Kalorie
+d3a6438c Anulować wiadomość alarmową?
+2c1425c2 Nie można wysłać alarmu pomocy
+4b24d276 Pola Connect IQ
+672ea456 Connect IQ
+83115568 MIN. UMIAR.
+428eae15 INT.MIN.
+7412af6d MIN. WYSOKA INT.
+abc9433f Martwy ciąg
+904903ef Usuń z urządzenia
+757fd59a Wyłącz nagrywanie
+2d992e35 Wyłączyć nagrywanie?
+f8745444 Odrzuć
+68cfabb3 Dystans
+49193f18 Gotowe
+02ccd050 Pij
+096538f0 Jedz
+aaec79ce Edytuj ustawienia pól danych
+9cda26e1 Edytować ustawienia pól danych?
+725df660 Powiadomiono kontakty alarmowe
+e8d47fb4 Kontakty alarmowe
+5750ef57 Aktywacja powiadomienia o wypadku
+9988866e Zakończyć teraz? Kontakty alarmowe zostaną poinformowane, że nie potrzebujesz już pomocy.
+f4604209 Wprowadź prawidłowy czas.
+87b7f7f3 Wprowadź kod dostępu
+408c4aa3 Wprowadź wartość od %1.
+ef3b4a02 Wprowadź wartość do %1.
+2d795d0a Czas pływania
+9bea4b38 Tryb pomocy nie został zakończony
+3428c340 Tryb powiadamiania o wypadku nie został zakończony.
+0f39a1f8 Błąd podczas wysyłania pozycji
+4c33d4db Tylko GPS
+b670e179 GPS zostanie włączony dla tej aktywności.
+f2234a23 Gotowy
+cc88296c Wystąpił błąd. Spróbuj ponownie później.
+bc054efb Gest
+24a7de3e Pobieranie pozycji
+01382a50 Pobieranie pozycji
+baff4b42 Do domu
+9c7d917a Dokończ konfigurację później w ustawieniach muzyki.
+743dce17 Dokończ konfigurację później w widżecie muzycznym.
+0c04700d Otwórz ustawienia urządzenia w aplikacji Garmin Connect, aby dodać sieć WIFI.
+a3156305 %1-krotny cel!
+d4785df3 %1 został dodany do dostawców muzyki.
+7f1b7303 Tętno zbyt wysokie
+53282c6f Tętno zbyt niskie
+74a3b495 Wykryto wypadek
+508aa56d Wykryto wypadek o %1
+f11c0855 Wykryto wypadek. Twoja pozycja jest śledzona i udostępniana Twoim kontaktom alarmowym do momentu zakończenia.
+b150991b Powiadomienie o wypadku
+dd95a9a0 Czas się poruszać!
+90b84ebd Pozycja znaleziona. Pozycja jest wysyłana.
+33a2697c Pozycja wysłana do kontaktów alarmowych.
+7624c92e Maks. prędkość
+0b3c1f1d Załadowano maksymalną liczbę treningów. Usuń jeden trening, aby pobrać więcej.
+88e1c644 Wiadomość wysłana
+9cdf7192 Wiadomość nie została wysłana. Kontakty alarmowe nie zostały powiadomione.
+d3d03759 Alarm bezczynności usunięty. Świetnie!
+6a395cc3 Nowy VO2max
+071a7939 Otwórz aplikację Garmin Connect, aby zaakceptować warunki LiveTrack.
+6ad17027 Brak dostępnych godzinowych danych pogodowych.
+f02fe705 Brak połączenia z telefonem
+628c7ee5 Nie podczas aktywności
+b90f9968 !\nN. wysłana.
+14e43c43 Wszystkie kontakty alarmowe zostaną powiadomione.
+fc5c735d Wyłącz
+55845008 Wyłącz
+8765ef10 Wyciskanie na barki
+7513f197 Popołudniu
+2bcaa5ef Tempo zbyt szybkie
+a5146493 Tempo zbyt wolne
+e080e1b8 Pozostało %1% baterii.
+bcce6924 Telefon nie jest połączony lub znajduje się poza zasięgiem.
+dd8fd8eb p
+63ee1f56 %1 po południu
+d89cc702 %1 pm
+35c34e01 %1 po południu
+915f3a67 %1 po południu
+08dd8324 %1 pm
+9b9b6c38 Naciśnij górny przycisk, aby anulować pomoc w nagłych wypadkach.
+5a048200 Prywatność danych
+62b0441f Błąd radaru %1
+e93ef4c0 Wymagany restart GPS. Czy chcesz teraz zrestartować?
+a96c1603 Zapisz aktywność
+a677f193 Puść przycisk, aby wezwać pomoc w nagłych wypadkach.
+e389e76a Usuń z listy
+6fe51dc6 Usunąć słuchawki?
+74b04ea2 Wymagany pomiar tętna na nadgarstku. Czy chcesz teraz włączyć?
+3d8f89ff Pokaż okrążenia
+172cb9b4 Wioślarstwo
+ed4134d2 Wysoko
+0a6cb244 Nisko
+50500081 Średnio
+565079f8 Ruch
+dd46a0d4 Animacje treningowe zostały zaktualizowane.
+68fdd906 Zapisz
+308176c6 Zapisano jako aktywność.
+bfab8c12 Przesyłanie
+700f043e Alarm pomocy jest wysyłany.
+2f2a9999 "Wszystko w porządku" jest wysyłane
+001b7459 Wysyłanie bez pozycji. Pozycja zostanie wysłana, gdy będzie dostępna.
+aec3e768 Konfiguracja
+0fbbd431 Skonfiguruj pomoc w nagłych wypadkach za pomocą aplikacji Garmin Connect.
+3b9a95c6 Skonfiguruj kontakty alarmowe za pomocą aplikacji Garmin Connect.
+0122bb24 Dostępne aktualizacje oprogramowania. Przewidywany czas: %1 minut. Zainstalować aktualizacje teraz?
+b4b53a7f Prędkość zbyt wysoka
+0fd98ee3 Prędkość zbyt niska
+bf4028e2 Przysiad
+ba4437e2 Stoper nadal działa. Wyświetlić stoper?
+b199fccf Zmiana stresu
+32286b94 Debugowanie stresu
+162c9ace Dystans uderzenia
+db29c7ea Dystans pociągnięcia
+239155a3 Tempo uderzeń zbyt wysokie
+6dbee78f Tempo uderzeń zbyt niskie
+9c391315 Pociągnięcia na długość basenu
+fb557388 Przegląd
+39fec0c2 Podczas synchronizacji przez WIFI odtwarzanie muzyki zostanie zatrzymane.
+e14bd86b System %1
+772f8eff Czas na przerwę i ruch!
+1368983d Czas
+756c4626 Czas na więcej aktywności!
+66abdd8c Czas na ruch i aktywność!
+fb66c512 Aby wysłać alarm pomocy, przytrzymaj przycisk, aż poczujesz 3 wibracje.
+bc8420f1 Łącznie: %1
+e93b73ad Odwróć
+a7e0c881 Protokół użytkowania
+a1b9da02 Używać %1 jako dostawcę muzyki?
+aa84117e Dodaj dostawców muzyki za pomocą aplikacji Connect IQ na telefonie.
+d4431bfb Trasy
+3446cba4 mm
+717d5dd5 VO2max
+530061dc Oczekiwanie na GPS
+45415f96 Świetnie! Alarm bezczynności usunięty.
+290e7d72 Sieci WIFI zabezpieczone protokołem WEP nie są już obsługiwane ze względu na ograniczenia bezpieczeństwa. Więcej informacji o zmianie poziomu zabezpieczeń sieci znajdziesz na stronie: www.garmin.com/WEP.
+bd9ee1a2 Jeśli dostępne, Twoja pozycja będzie udostępniana, dopóki nie zakończysz funkcji pomocy.
+47f201e0 Twoja pozycja jest śledzona i udostępniana. Aby zakończyć pomoc, naciśnij górny przycisk.
+63f33979 Twoja pozycja jest śledzona i udostępniana Twoim kontaktom alarmowym.
+ad15f0ee Twoja pozycja jest śledzona i zostanie udostępniona kontaktom alarmowym po nawiązaniu połączenia.
+dea3532d Twoja pozycja jest śledzona i zostanie udostępniona kontaktom alarmowym, gdy tylko zostanie ustalona.
+463f8b2b Obszar 1
+a3e69f9a Obszar 2
+75c553ad Obszar 3
+e2a47adc Obszar 4
+788d6647 Obszar 5
