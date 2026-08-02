@@ -1,5 +1,7 @@
 ### polish.ln4 for Garmin Vivoactive 4
 
-##### Original by Garmin in `./polish-by-garmin`
+##### Original translation by Garmin `./polish-by-garmin` grabbed from other watch
 
 ##### Translated by chat GPT in `./out`
+
+Remeber that sometimes you have to replace other language on your watch to make this work for example german.ln4
